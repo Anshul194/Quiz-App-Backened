@@ -1,0 +1,11 @@
+{
+    "requiredFields": "All fields are required",
+    "invalidInput": "Invalid input provided",
+    "unauthorizedAccess": "Unauthorized access",
+    "serverError": "Internal server error",
+    "notFound": "Resource not found",
+    "duplicateEntry": "Duplicate entry found",
+    "validationError": "Validation error",
+    "oneImageError":"Minimum one image is required"
+}
+  
